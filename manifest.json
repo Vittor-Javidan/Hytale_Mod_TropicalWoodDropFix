@@ -1,0 +1,20 @@
+{
+  "Group": "TheGodGigaChadGamer",
+  "Name": "Tropical Wood Fence Drop Fix",
+  "Version": "1.0.0",
+  "Description": "Currently on vanilla, When you break the tropical wood fence, softwood fence is dropped instead. This mod fix this",
+  "Authors": [
+    {
+      "Name": "TheGodGigaChadGamer",
+      "Email": "vittor.javidan.t@gmail.com",
+      "Url": "https://www.linkedin.com/in/vittor-javidan/"
+    }
+  ],
+  "Website": "https://www.linkedin.com/in/vittor-javidan/",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

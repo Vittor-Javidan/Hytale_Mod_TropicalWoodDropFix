@@ -11,10 +11,8 @@
     }
   ],
   "Website": "https://www.linkedin.com/in/vittor-javidan/",
+  "ServerVersion": "2026.02.06-0baf7c5aa",
   "Dependencies": {},
   "OptionalDependencies": {},
-  "LoadBefore": {},
-  "DisabledByDefault": false,
-  "IncludesAssetPack": false,
-  "SubPlugins": []
+  "DisabledByDefault": false
 }
